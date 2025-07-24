@@ -5,6 +5,7 @@ Découvrez un **tableau de bord interactif sous Excel** conçu pour optimiser le
 ## 🚀 Objectif
 
 Permettre aux équipes commerciales et marketing de :
+
 - Suivre l’évolution des ventes par type de café
 - Identifier les meilleurs clients
 - Cibler les marchés les plus porteurs
@@ -30,7 +31,7 @@ Permettre aux équipes commerciales et marketing de :
 
 - `Dashboard.xlsx` : Fichier Excel interactif
 - `Dashboard.png` : Capture d’écran du dashboard
-📌 *Ce projet a été réalisé à des fins d’apprentissage en business intelligence et en visualisation de données.*
+  📌 _Ce projet a été réalisé à des fins d’apprentissage en business intelligence et en visualisation de données._
 
 ---
 
@@ -41,6 +42,7 @@ Ce projet présente un **dashboard interactif** développé avec **Microsoft Exc
 ## 🎯 Objectif
 
 Offrir une vue d’ensemble claire et intuitive des indicateurs clés de performance (KPI) liés à l’activité d’un centre d’appels :
+
 - Nombre d’appels
 - Ventes réalisées
 - Durée totale des appels
@@ -70,13 +72,13 @@ Offrir une vue d’ensemble claire et intuitive des indicateurs clés de perform
 
 ## 📷 Aperçu visuel
 
-| Vue 1 | Vue 2 |
-|:-----:|:-----:|
-| ![Dashboard vue 1](2e27b4ea-4edd-4f4e-bec0-99ef3c11b62a.png) | ![Dashboard vue 2](11118c83-ce8f-4b3f-84bd-57c147bc8976.png) |
+|                              Vue 1                              |                              Vue 2                              |
+| :-------------------------------------------------------------: | :-------------------------------------------------------------: |
+| ![Dashboard vue 1](/Call_Center_Dashboard/Call_center_pic1.png) | ![Dashboard vue 2](/Call_Center_Dashboard/Call_center_pic2.png) |
 
 ## 📦 Fichier
 
-- `Call_Center_Dashboard.xlsx` *(non fourni ici – à ajouter)*
+- `Call_Center_Dashboard.xlsx` _(non fourni ici – à ajouter)_
 
 ## 🧠 Ce que j’ai appris
 
@@ -87,5 +89,4 @@ Offrir une vue d’ensemble claire et intuitive des indicateurs clés de perform
 
 ---
 
-📌 *Ce projet a été réalisé à des fins d’apprentissage en business intelligence et en visualisation de données.*
-
+📌 _Ce projet a été réalisé à des fins d’apprentissage en business intelligence et en visualisation de données._
