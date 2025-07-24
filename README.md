@@ -11,7 +11,7 @@ Permettre aux équipes commerciales et marketing de :
 
 ## 🖼️ Aperçu
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](CoffeeOrderDataAnalysis/Dashboard.png)
 
 ## ⚙️ Points forts
 
