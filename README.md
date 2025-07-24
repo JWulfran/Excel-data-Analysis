@@ -31,7 +31,10 @@ Permettre aux équipes commerciales et marketing de :
 
 - `Dashboard.xlsx` : Fichier Excel interactif
 - `Dashboard.png` : Capture d’écran du dashboard
-  📌 _Ce projet a été réalisé à des fins d’apprentissage en business intelligence et en visualisation de données._
+
+---
+
+📌 _Ce projet a été réalisé à des fins d’apprentissage en business intelligence et en visualisation de données._
 
 ---
 
@@ -68,17 +71,21 @@ Offrir une vue d’ensemble claire et intuitive des indicateurs clés de perform
   - Graphiques en courbes, barres empilées, histogrammes
   - Mise en forme conditionnelle
   - Segments (slicers) pour le filtrage dynamique
-  - Formules avancées (NB.SI, SOMME.SI, MOYENNE, etc.)
+  - Formules avancées
 
 ## 📷 Aperçu visuel
 
-|                              Vue 1                              |                              Vue 2                              |
-| :-------------------------------------------------------------: | :-------------------------------------------------------------: |
-| ![Dashboard vue 1](/Call_Center_Dashboard/Call_center_pic1.png) | ![Dashboard vue 2](/Call_Center_Dashboard/Call_center_pic2.png) |
+Vue 1
+
+![Dashboard vue 1](/Call_Center_Dashboard/Call_center_pic1.png)
+
+Vue 2
+
+![Dashboard vue 2](/Call_Center_Dashboard/Call_center_pic2.png) |
 
 ## 📦 Fichier
 
-- `Call_Center_Dashboard.xlsx` _(non fourni ici – à ajouter)_
+- `Call_Center_Dashboard.xlsx`
 
 ## 🧠 Ce que j’ai appris
 
